@@ -26,7 +26,7 @@ const UpdateTripModal = (props) => {
     <div className="container">
       <Modal {...props} size="lg" aria-labelledby="contained-modal-title-vcenter" centered>
         <Modal.Header closeButton>
-          <Modal.Title id="contained-modal-title-vcenter">Update Driver Information</Modal.Title>
+          <Modal.Title id="contained-modal-title-vcenter">Update Trip Information</Modal.Title>
         </Modal.Header>
         <Modal.Body>
           <Row>
