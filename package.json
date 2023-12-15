@@ -21,6 +21,10 @@
     "web-vitals": "^2.1.4"
   },
 
+  "engines": {
+    "node": "20.x"
+  },
+  
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
