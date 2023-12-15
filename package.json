@@ -21,10 +21,6 @@
     "web-vitals": "^2.1.4"
   },
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 8a61879e701d583fab32b3271b9d36dc1ea3c8a1
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
