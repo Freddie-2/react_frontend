@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "homepage": "https://ashesibussystem.github.io",
+  "homepage": "https://freddie-2.github.io/react_frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,11 +20,8 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-<<<<<<< HEAD
 
-=======
-  
->>>>>>> 2f81f93df6a40fb49269be8085417723b8fb5d8a
+
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
