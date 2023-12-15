@@ -8,8 +8,6 @@ import Vehicles from './components/Vehicles';
 import Vehiclesmanage from './components/Vehiclesmanage';
 import Trips from './components/Trips';
 import Tripsmanage from './components/TripsManage';
-import Licenses from './components/Licenses';
-import Licensesmanage from './components/Licensesmanage';
 import {BrowserRouter, Route, Routes} from 'react-router-dom';
 
 
@@ -25,8 +23,6 @@ function App() {
          <Route path="/managev" element={<Vehiclesmanage/>} />
          <Route path="/trips" element={<Trips/>} />
          <Route path="/managet" element={<Tripsmanage/>} />
-         <Route path="/licenses" element={<Licenses/>} />
-         <Route path="/managel" element={<Licensesmanage/>} />
        </Routes>
     </BrowserRouter>
   );
