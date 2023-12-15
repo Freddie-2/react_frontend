@@ -20,13 +20,13 @@ function App() {
       <Routes>
          <Route exact path="/" element={<Home/>} />
          <Route path="/drivers" element={<Drivers/>} />
-         <Route path="/react_frontend/managed" element={<Driversmanage/>} />
-         <Route path="/react_frontend/vehicles" element={<Vehicles/>} />
-         <Route path="/react_frontend/managev" element={<Vehiclesmanage/>} />
-         <Route path="/react_frontend/trips" element={<Trips/>} />
-         <Route path="/react_frontend/managet" element={<Tripsmanage/>} />
-         <Route path="/react_frontend/licenses" element={<Licenses/>} />
-         <Route path="/react_frontend/managel" element={<Licensesmanage/>} />
+         <Route path="/managed" element={<Driversmanage/>} />
+         <Route path="/vehicles" element={<Vehicles/>} />
+         <Route path="/managev" element={<Vehiclesmanage/>} />
+         <Route path="/trips" element={<Trips/>} />
+         <Route path="/managet" element={<Tripsmanage/>} />
+         <Route path="/licenses" element={<Licenses/>} />
+         <Route path="/managel" element={<Licensesmanage/>} />
        </Routes>
     </BrowserRouter>
   );
