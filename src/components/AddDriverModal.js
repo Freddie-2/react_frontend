@@ -102,4 +102,3 @@ const AddDriverModal = (props) => {
 };
 
 export default AddDriverModal;
-

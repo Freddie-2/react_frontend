@@ -1,5 +1,3 @@
-// UpdateVehicleModal.js
-
 import React from 'react';
 import { Modal, Col, Row, Form, Button } from 'react-bootstrap';
 import { updateVehicle } from '../services/VehicleService';
@@ -10,7 +8,6 @@ const UpdateVehicleModal = (props) => {
 
     const updatedVehicle = {
       is_available: e.target.is_available.value,
-      // Add other fields as needed
     };
 
     try {

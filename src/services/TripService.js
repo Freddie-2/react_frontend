@@ -1,5 +1,3 @@
-// TripService.js
-
 import axios from 'axios';
 
 // Function to handle common API errors
@@ -18,15 +16,6 @@ export function getTrips() {
       throw error;
     });
 }
-
-{/*export function deleteTrip(trip_id) {
-  return axios.delete(`http://54.234.174.27/trip/delete/`)
-    .then(response => response.data)
-    .catch(error => {
-      console.error('Error deleting trip', error);
-      throw error;
-    });
-}*/}
 
 
 export const deleteTrip = async (tripId) => {
