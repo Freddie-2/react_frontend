@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_frontend/static/css/main.53b7fbbf.css",
-    "main.js": "/react_frontend/static/js/main.22914aed.js",
+    "main.js": "/react_frontend/static/js/main.6d1f2eca.js",
     "static/js/787.9e9f4ffd.chunk.js": "/react_frontend/static/js/787.9e9f4ffd.chunk.js",
     "static/media/fa-solid-900.svg": "/react_frontend/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/react_frontend/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
@@ -22,11 +22,11 @@
     "static/media/slide01.jpg": "/react_frontend/static/media/slide01.6dd287b08911ede0bf27.jpg",
     "index.html": "/react_frontend/index.html",
     "main.53b7fbbf.css.map": "/react_frontend/static/css/main.53b7fbbf.css.map",
-    "main.22914aed.js.map": "/react_frontend/static/js/main.22914aed.js.map",
+    "main.6d1f2eca.js.map": "/react_frontend/static/js/main.6d1f2eca.js.map",
     "787.9e9f4ffd.chunk.js.map": "/react_frontend/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.53b7fbbf.css",
-    "static/js/main.22914aed.js"
+    "static/js/main.6d1f2eca.js"
   ]
 }
